@@ -1,0 +1,1 @@
+window.SITE = { name: "Денсио", phone: "", contactUrl: "#pilot", contactLabel: "Запросить пилот", menu: [{title:"Как работает",href:"#process"},{title:"Что проверяем",href:"#checks"}] };

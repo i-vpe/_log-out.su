@@ -1,0 +1,33 @@
+/* Временные нейтральные значения. После выбора направления заменить по DESIGN.md. */
+:root {
+  /* Цвета: один фон, один цвет текста, один акцент на действиях */
+  --color-bg: #fafafa;
+  --color-surface: #ffffff;
+  --color-text: #202020;
+  --color-muted: #666666;
+  --color-accent: #303030;
+  --color-accent-text: #ffffff;
+  --color-line: #dedede;
+
+  /* Шрифты: один для заголовков, один для текста. Замените на свои, подключив их в base.css */
+  --font-heading: "Helvetica Neue", "Arial", sans-serif;
+  --font-body: "Helvetica Neue", "Arial", sans-serif;
+
+  /* Размеры текста */
+  --text-base: 18px;
+  --text-small: 16px;
+  --text-h1: clamp(34px, 6vw, 64px);
+  --text-h2: clamp(26px, 3.5vw, 40px);
+
+  /* Отступы и ритм */
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 40px;
+  --space-5: 64px;
+  --space-6: 104px;
+  --container: 1120px;
+  --radius: 12px;
+  --control-height: 48px;
+  --control-height-small: 44px;
+}

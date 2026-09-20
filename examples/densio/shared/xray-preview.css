@@ -1,0 +1,14 @@
+/* Body regions keep an upright radiographic projection, including on mobile. */
+html[data-xray] .specimen-positive{filter:none;mix-blend-mode:normal}
+html[data-surface="warm"] .specimen-aura{background:var(--gradient-warm)}
+html[data-surface="warm"] .specimen-aura:before{background:radial-gradient(ellipse at 60% 59%,#ffcb8b38,transparent 68%)}
+html[data-xray] .specimen-object{height:min(76svh,760px,calc((100cqw - 24px)/.71));transform:translate(-50%,-50%) translate(var(--pointer-x,0px),var(--pointer-y,0px)) rotate(var(--pointer-angle,0deg))}
+html[data-xray] .specimen-registration{opacity:.25}
+html[data-xray] .specimen-region{stroke-width:1.3}
+@media(max-width:899px){html[data-xray] .specimen-object{height:calc(min(21svh,200px) + (var(--hero-art-height) + 24px - min(21svh,200px)) * var(--hero-open));max-height:none}html[data-xray] .specimen-aura>.data-points{right:8%}}
+.xray-lab .lab-stage img{transform:none;height:94%;width:auto}
+.xray-lab .lab-stage{height:clamp(390px,37vw,525px)}
+.lab-navigation{display:flex;gap:12px;align-items:center;justify-content:space-between;padding:16px 22px;margin:10px 0 28px;border-radius:20px;background:var(--surface);font-size:12px;color:var(--muted)}
+.lab-navigation a{color:var(--ink);text-underline-offset:4px}
+@media(max-width:899px){.xray-lab .lab-stage{height:340px}}
+@media(max-width:650px){.xray-lab .lab-stage{height:470px}.lab-navigation{align-items:flex-start;flex-direction:column}}

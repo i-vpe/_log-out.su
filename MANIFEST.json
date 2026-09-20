@@ -1,0 +1,313 @@
+{
+  "name": "Среда для сайтов с Codex",
+  "version": 2,
+  "date": "2026-09-15",
+  "entry": "START.html",
+  "files": [
+    {
+      "path": ".agents/skills/brief/SKILL.md",
+      "bytes": 3567,
+      "sha256": "b2a9652694419da9c1959cf6d3e8f697d97d5a83e408e8297a79ed31d5c4d103"
+    },
+    {
+      "path": ".agents/skills/new-page/SKILL.md",
+      "bytes": 5208,
+      "sha256": "bdf2e4ccbb169116faac11d341ceadb64f257b946112030bed3862bbef0e0139"
+    },
+    {
+      "path": ".agents/skills/new-page/references/LICENSE.txt",
+      "bytes": 10174,
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+    },
+    {
+      "path": ".agents/skills/new-page/references/acceptance.md",
+      "bytes": 1953,
+      "sha256": "87a25a66c4dedc41bf900811faaefb47e6a8bd42829d420b1f9a35e1b538c50c"
+    },
+    {
+      "path": ".agents/skills/new-page/references/composition.md",
+      "bytes": 2397,
+      "sha256": "01484e14e9f43e1e59233122fecac9f7d72e8028e05418f3d93dc3a465fba3c9"
+    },
+    {
+      "path": ".agents/skills/new-page/references/design-direction.md",
+      "bytes": 9390,
+      "sha256": "d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3"
+    },
+    {
+      "path": ".agents/skills/new-page/references/images.md",
+      "bytes": 2442,
+      "sha256": "e62ff8619fa08352247bc1e81ddc58b3ab6444bf390e5187c2c253fe4ab6c7f6"
+    },
+    {
+      "path": ".agents/skills/new-page/references/motion.md",
+      "bytes": 2678,
+      "sha256": "4d9466201dba59d1e0a3502d55fc68d4a0271216ca72cd44e4eba428e1a49f77"
+    },
+    {
+      "path": ".agents/skills/page-reviewer/SKILL.md",
+      "bytes": 2842,
+      "sha256": "01b95586b13d2b21ef3c1ad27cc2a8080e6d613589d5f524b111a99942754e02"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 6922,
+      "sha256": "2f38a3c51c317645c2725b1d36b47b3b03f80f5b760a409d7a6259ae24417261"
+    },
+    {
+      "path": "BRIEF.md",
+      "bytes": 1045,
+      "sha256": "f2f6b7762ca7660904f216b74495ea8c9723ebd65214d391dc29acc0bd0610a3"
+    },
+    {
+      "path": "DESIGN.md",
+      "bytes": 2336,
+      "sha256": "661365b5b6916f3ce939e9828fc90622cd247df82332614df4e369b0ad0b7378"
+    },
+    {
+      "path": "HANDOFF.md",
+      "bytes": 725,
+      "sha256": "51b066e13e56a7b8803bdae89acfe3c20bfd78a7b6b20dba049177b5097d775f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4239,
+      "sha256": "f2817681ba821222c2113627950321834ca500b30eaf1128b91158114228ce9d"
+    },
+    {
+      "path": "REFERENCES.md",
+      "bytes": 1087,
+      "sha256": "d1c0e870b7d31ebc3841e969a4ef9b6f9f976bdab96522d49274295e17cafa47"
+    },
+    {
+      "path": "REVIEW.md",
+      "bytes": 1376,
+      "sha256": "a426b83c706cfc23ec552c9cc83d4b323d9f246c477a13925c0bf58491d7c97d"
+    },
+    {
+      "path": "SITEMAP.md",
+      "bytes": 168,
+      "sha256": "009c8da56785ca6e454b61d1b88cd4e346e45529baaae799530d1bf2107f7cfc"
+    },
+    {
+      "path": "START.html",
+      "bytes": 3378,
+      "sha256": "5e4bdf0b3716f1db9e0f6b77f93721928fffc2556388da691e6b8f6428429671"
+    },
+    {
+      "path": "examples/densio/BRIEF.md",
+      "bytes": 1971,
+      "sha256": "9a678e0fe3987947df1779ef9365c8e3efd3f6795330165ef2ef1d69e4e5606b"
+    },
+    {
+      "path": "examples/densio/DESIGN.md",
+      "bytes": 16048,
+      "sha256": "8d2119148d68af3194180582d2c8c2a1adaf2e54799b454691a244265761571a"
+    },
+    {
+      "path": "examples/densio/REVIEW.md",
+      "bytes": 1414,
+      "sha256": "8c0912f67d37b0bb15ed7adf99ead5a0dccadf8fb56304d699deb89e1d184162"
+    },
+    {
+      "path": "examples/densio/WALKTHROUGH.md",
+      "bytes": 2251,
+      "sha256": "6d1305ac0bf77153cee254f2f36b739c713d66d1fff7918311853d49b96e9dd0"
+    },
+    {
+      "path": "examples/densio/WORKBOOK.html",
+      "bytes": 7170,
+      "sha256": "b06cdf54f9ba0b64cd519b8c96ddbdbafb06d8c41fcb265cc21a8824ae5b1688"
+    },
+    {
+      "path": "examples/densio/favicon.svg",
+      "bytes": 166,
+      "sha256": "caa183b7011cbb15d2243a7d606d0ca2d227e8b254916f3459611451ed6f2a74"
+    },
+    {
+      "path": "examples/densio/index.html",
+      "bytes": 16838,
+      "sha256": "2ea12a3bebf8ada1937885ffec205dbf3ec9d3c319fd0a9d60d416acd711b65a"
+    },
+    {
+      "path": "examples/densio/materials/ASSETS.md",
+      "bytes": 1176,
+      "sha256": "4e2cadf13f0c6c4fa6cf616a70816e2af5a206689fa0c4dc1a074f123b611e56"
+    },
+    {
+      "path": "examples/densio/materials/media/README.md",
+      "bytes": 105,
+      "sha256": "bf377c1fc06f6c40c8ff82e4c15cb6e9de4d5bc360150055ade87a5b812b11f2"
+    },
+    {
+      "path": "examples/densio/materials/media/pilot-light-panel.png",
+      "bytes": 1627367,
+      "sha256": "393180d712f83be66175863bf6e67b9de2f28cd7da8068295358d134a56446a9"
+    },
+    {
+      "path": "examples/densio/materials/media/pilot-light-panel.prompt.txt",
+      "bytes": 2030,
+      "sha256": "565ab0ac1fe0cf794bb80f698af7b43dda85f66f34d4a4532e81221d7ea60ada"
+    },
+    {
+      "path": "examples/densio/materials/media/pilot-light-panel.webp",
+      "bytes": 64612,
+      "sha256": "8c864269afbb0f6e8fcb7aafbd84dcea03b07acad936d09d9fb8c711eef8e03d"
+    },
+    {
+      "path": "examples/densio/materials/media/xray-variants/05-thorax.png",
+      "bytes": 2139043,
+      "sha256": "d37b4eb969302286ef45902bac4bae79a9d4a761927d314a666cd1955d027bb0"
+    },
+    {
+      "path": "examples/densio/materials/media/xray-variants/05-thorax.prompt.txt",
+      "bytes": 3029,
+      "sha256": "86da067b49cd831d96e84408e0b001b6e097740d3fd5d0c41f1689684ab13fe8"
+    },
+    {
+      "path": "examples/densio/shared/base.css",
+      "bytes": 2123,
+      "sha256": "6c59e4abf310202f9cb6685180d2bbedc74436ac9266f216c83cafba661d1118"
+    },
+    {
+      "path": "examples/densio/shared/fonts/README.md",
+      "bytes": 194,
+      "sha256": "8fa48f71c377282f63187ac4787ed7325031a153920c0750936a3b5b65ab732a"
+    },
+    {
+      "path": "examples/densio/shared/fonts/manrope-LICENSE.txt",
+      "bytes": 4383,
+      "sha256": "d826ab6583b12c26807d8716a545bdbbb672df04f48608a364ba9efdbe501c30"
+    },
+    {
+      "path": "examples/densio/shared/fonts/manrope-cyrillic-400-normal.woff2",
+      "bytes": 7840,
+      "sha256": "5a987d1484070f1ea54de7c10ebfa4057a18e379361dbe5fd5c4fa4c2d95ef39"
+    },
+    {
+      "path": "examples/densio/shared/fonts/manrope-latin-400-normal.woff2",
+      "bytes": 14108,
+      "sha256": "849290ef12a2eeb9af5c11924120d11aa4ae8b435ed3347d7fc8bc240c293ca3"
+    },
+    {
+      "path": "examples/densio/shared/footer.js",
+      "bytes": 676,
+      "sha256": "3452aa36edd08180122f3d4173164bbcf0862e9af53f6af01421310b40325c0e"
+    },
+    {
+      "path": "examples/densio/shared/header.js",
+      "bytes": 1415,
+      "sha256": "a8772e8857dbbb090266fbbea5f23e6c4c521e24637a8de72b36a7c3aa108402"
+    },
+    {
+      "path": "examples/densio/shared/journey.css",
+      "bytes": 19377,
+      "sha256": "11b174203401783f7843a17bfaf7d269ac87d3e451abbcf8101bdbfa07ca3f21"
+    },
+    {
+      "path": "examples/densio/shared/journey.js",
+      "bytes": 11308,
+      "sha256": "cdaaf61419dfbbc574a9a97fe90c80ee2d409bdfa618c912cd352d91798dd2d3"
+    },
+    {
+      "path": "examples/densio/shared/motion.js",
+      "bytes": 4478,
+      "sha256": "8ed354c49833f37f712e6f8df2cb01548cabe5618c8ce6bf58e478b40d3d9cbb"
+    },
+    {
+      "path": "examples/densio/shared/scenes.css",
+      "bytes": 10099,
+      "sha256": "88bcbe9fa38acb448797dd32cae83bdde754d081be5025ad41480d7f6775d375"
+    },
+    {
+      "path": "examples/densio/shared/site.js",
+      "bytes": 229,
+      "sha256": "a15b8aef24c2dc12332996a24833f3f7a5b6b2eeda0da7121c91f5a32439b29a"
+    },
+    {
+      "path": "examples/densio/shared/tokens.css",
+      "bytes": 1983,
+      "sha256": "7a9cd0508de56606079f4b7af1781e7b00b21ed0e41ab1d8f6678bd478c440a1"
+    },
+    {
+      "path": "examples/densio/shared/visuals.js",
+      "bytes": 1841,
+      "sha256": "6c68047ecb29e2b707725c185de8be5359801d4bff7eb43e93d8a8244a5844d0"
+    },
+    {
+      "path": "examples/densio/shared/xray-preview.css",
+      "bytes": 1445,
+      "sha256": "673e65539237d530556bf9f29511d876a1ff4bc08c4760168ea50276ab48bfd3"
+    },
+    {
+      "path": "examples/densio/shared/xray-preview.js",
+      "bytes": 2968,
+      "sha256": "a44cd76ebb81f3372357e763ffb7ae2313281ac3d61df544a103247e9872f8bb"
+    },
+    {
+      "path": "materials/ASSETS.md",
+      "bytes": 1464,
+      "sha256": "3711f76da96e24432b77bfad1a324306b98e5bb3eecacee19f1e607c57d69c75"
+    },
+    {
+      "path": "materials/README.md",
+      "bytes": 1135,
+      "sha256": "70f64a2583464c423e2f5a0ff0ece329e4168b629cdcdca60d10b44017e5cc99"
+    },
+    {
+      "path": "materials/brand/.keep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "materials/logo/.keep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "materials/media/.keep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "materials/photos/.keep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "materials/proof/.keep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "materials/texts/.keep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "shared/base.css",
+      "bytes": 2325,
+      "sha256": "311e2e47326880f3ec58cd40d547d3e0c03b7831bb81b28315063eb650322568"
+    },
+    {
+      "path": "shared/footer.js",
+      "bytes": 676,
+      "sha256": "3452aa36edd08180122f3d4173164bbcf0862e9af53f6af01421310b40325c0e"
+    },
+    {
+      "path": "shared/header.js",
+      "bytes": 1415,
+      "sha256": "a8772e8857dbbb090266fbbea5f23e6c4c521e24637a8de72b36a7c3aa108402"
+    },
+    {
+      "path": "shared/site.js",
+      "bytes": 753,
+      "sha256": "af9180a6611236b04b02be2c9f76b7de03fa6e59a43974ff498ad7064a24fc82"
+    },
+    {
+      "path": "shared/tokens.css",
+      "bytes": 1132,
+      "sha256": "ee4382d1ecb6b99526ae550ffca89c80ed7862b6e7777874236c49c96d9362fc"
+    }
+  ]
+}
